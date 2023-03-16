@@ -1,8 +1,3 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Assignment 1 Word Search Generator
-Date 2/17/2023*/
-
 /*This class represents the word search object*/
 
 import java.util.*;
