@@ -1,8 +1,3 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Assignment 1 Word Search Generator
-Date 2/17/2023*/
-
 /*This is the main for my word search program. It will create a word search using
 a list of words from the user or from a text file the user provides. It will try
 to fit a word 500 times before it will tell the user the word will not fit. Words
